@@ -18,6 +18,9 @@ class sip_pcfg:
 
 		## call set_support about all supported options for sip tool
 
+		## -comp <component_name>, user can create a standard component by this option.
+		## -comp_list, use this option to list all support component names.
+
 		## call __opt__.load
 
 		##
