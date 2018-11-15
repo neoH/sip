@@ -23,7 +23,7 @@
 ## this tool can be divided into several sub tools that will be called within SIP_HOME
 ##
 ## --------------------------------------------------------------------------------------------------
-## user called tool: sip
+## command called by user: sip
 ## Specified ENV: $SIP_HOME
 ## sub tool kits:
 ## -- cgen: a tool to generate uvm components or other common components used by C-Sky.
